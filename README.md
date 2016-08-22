@@ -1,4 +1,4 @@
-# Full Stack Python/Django Exam
+# Full Stack Python/Django Skills Test
 
 ![Mockup](https://github.com/pragmanila/guestbook/blob/master/mockup.jpg?raw=true "Mockup")
 
@@ -14,10 +14,12 @@
 
 - Convert the attached mockup (mockup.jpg) into HTML and CSS
 - You are free to use front end frameworks such as Bootstrap
+- Markup needs to be fully reponsive and mobile friendly
 
 ### Django and Python
 - Make the page functional in such a way that guestbook entries are being fetched from a database and displayed on the page when it loads
 - Make the form functional that when submitted, it will add entries to the guestbook, reload the page and display the newly added entry
+- Basic and proper form validation needs to be applied
 
 ### Javascript and AJAX
 - Modify the form submission where the form submits through AJAX and the entry will be displayed on the list without reloading the page 
